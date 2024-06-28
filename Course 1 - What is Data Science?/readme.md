@@ -1,5 +1,8 @@
 # What is Data Science?
 
+## Certificate & Badge
+[![What is Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/RT7DXGHMWEKA)]
+
 ## Lesson Objectives
 
 1. Define data science and its importance in today's data-driven world.
