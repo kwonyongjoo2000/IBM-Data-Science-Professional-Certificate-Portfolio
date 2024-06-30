@@ -1,7 +1,7 @@
 # What is Data Science?
 
 ## Badge
-[![What is Data Science Badge](![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/13a859c1-4d5d-426c-9df3-eeae65e47260)](https://www.credly.com/earner/earned/badge/1cc14b43-c1b5-4b9c-af55-40b9733d29de)
+[(![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/13a859c1-4d5d-426c-9df3-eeae65e47260)](https://www.credly.com/earner/earned/badge/1cc14b43-c1b5-4b9c-af55-40b9733d29de)
 
 ## Lesson Objectives
 
