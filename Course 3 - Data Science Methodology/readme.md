@@ -1,7 +1,7 @@
 # Data Science Methodology
 
 ## Badge
-[![Data Science Methodology Badge](![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/dfcb1ab5-7634-489e-af67-14b5dbddb316)
+[(![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/dfcb1ab5-7634-489e-af67-14b5dbddb316)
 .png)](https://www.credly.com/badges/fcdeac2f-ea17-4f14-8dd3-f3205125f6c8)
 
 ## Lesson Objectives
