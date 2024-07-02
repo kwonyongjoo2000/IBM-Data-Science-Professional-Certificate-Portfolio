@@ -16,4 +16,4 @@
 
 ## Module
 
-1. Crowdsourcing Short Squeez Dashboard
+1. Crowdsourcing Short Squeeze Dashboard
