@@ -2,7 +2,7 @@
 
 ## Badge
 
-[![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/540d034a-45fa-49ef-9705-ac0f984a7a58).png)](https://www.credly.com/badges/98aea2ff-0358-43a7-a796-4b0911de0f90)
+[!((![image](https://github.com/kwonyongjoo2000/IBM-Data-Science-Professional-Certificate/assets/163764971/7c52f155-12c1-42ab-96f9-2accc90528fe).png)]([https://www.credly.com/badges/98aea2ff-0358-43a7-a796-4b0911de0f90](https://www.credly.com/earner/earned/badge/98aea2ff-0358-43a7-a796-4b0911de0f90))
 
 ## Lesson Objectives
 
