@@ -25,4 +25,3 @@ Module 4: Accessing Databases using Python
 
 Module 5: Final Project
   
-Module 6: Advanced SQL for Data Engineering (Honors Level)
