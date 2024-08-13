@@ -21,6 +21,12 @@
 
 **Course 10: Applied Data Science Capstone**
 
+## Projects ##
+
 
 ## Skills ##
-Skills: Data Science, Big Data, Python Programming, Github, Machine Learning, Deep Learning, Methodology, SQL, Rstudio, Data Mining, Jupyter Notebooks
+**Programming Languages: Python, SQL, R**
+
+**Version Control/Environment Development: GitHub, Jupyter Notebooks, R Studio, Anaconda**
+
+**Data Analysis Tools: Pandas, NumPy, Matplotlib**
