@@ -1,4 +1,4 @@
-# IBM-Data-Science-Professional-Certificate #
+# IBM Data Science Professional Certificate #
 
 ## Courses ##
 **Course 1: What is Data Science?**
@@ -22,7 +22,17 @@
 **Course 10: Applied Data Science Capstone**
 
 ## Projects ##
+**Python Project**
 
+**SQL Project**
+
+**Data Analysis Project**
+
+**Data Visualization Project**
+
+**Machine Learning Project**
+
+**Data Science Capstone**
 
 ## Skills ##
 **Programming Languages: Python, SQL, R**
