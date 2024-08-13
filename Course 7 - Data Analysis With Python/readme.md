@@ -2,7 +2,7 @@
 
 ## Badge
 
-## Lesson Objectives
+## Project Objectives
 
 1. Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data.
 
