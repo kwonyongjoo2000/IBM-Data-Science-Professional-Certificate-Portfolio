@@ -12,16 +12,5 @@
 
 4. Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making.
 
-## Modules
-
-Module 1: Importing Data Sets
-
-Module 2: Data Wrangling
-
-Module 3: Exploratory Data Analysis
-
-Module 4: Model Development
-
-Module 5: Model Evaluation and Refinement
-
-Module 6: Final Assignment
+## Skills
+**Model Selection, Data Analysis, Python Programming, Data Visualization, Predictive Modelling**
