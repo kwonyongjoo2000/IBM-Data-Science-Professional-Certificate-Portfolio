@@ -21,7 +21,7 @@
 **Data Analysis Tools: Pandas, NumPy, Matplotlib**
 
 ## Course Badge Verification ##
-**Course 1: What is Data Science?**
+**[Course 1: What is Data Science?](https://www.credly.com/earner/earned/badge/1cc14b43-c1b5-4b9c-af55-40b9733d29de)**
 
 **Course 2: Tools for Data Science**
 
