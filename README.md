@@ -33,7 +33,7 @@
 
 **[Course 6: Databases and SQL for Data Science with Python](https://www.credly.com/earner/earned/badge/0fae05c1-217d-47f2-8492-4e83a061c062)**
 
-**Course 7: Data Analysis with Python**
+**[Course 7: Data Analysis with Python](https://www.credly.com/earner/earned/badge/0fae05c1-217d-47f2-8492-4e83a061c062)**
 
 **Course 8: Data Visualization with Python**
 
