@@ -11,6 +11,8 @@
 
 **Machine Learning Project**
 
+**Generative AI Project**
+
 **Data Science Capstone**
 
 ## Skills ##
@@ -40,3 +42,5 @@
 **Course 9: Machine Learning with Python**
 
 **Course 10: Applied Data Science Capstone**
+
+**Course 11: Generative AI**
