@@ -39,7 +39,7 @@
 
 **[Course 8: Data Visualization with Python](https://www.credly.com/earner/earned/badge/0fae05c1-217d-47f2-8492-4e83a061c062)**
 
-**Course 9: Machine Learning with Python**
+**[Course 9: Machine Learning with Python](https://www.credly.com/earner/earned/badge/0fae05c1-217d-47f2-8492-4e83a061c062)**
 
 **Course 10: Applied Data Science Capstone**
 
