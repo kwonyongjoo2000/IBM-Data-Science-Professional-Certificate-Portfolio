@@ -11,6 +11,10 @@
 
 **Data Science Capstone**
 
+Machine Learning
+
+Honor Project
+
 ## Skills ##
 **Programming Languages: Python, SQL, R**
 
