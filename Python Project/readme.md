@@ -37,3 +37,13 @@ Investment Decisions: Identifying potential investment opportunities or risks ba
 Market Analysis: Understanding the factors that influence stock prices and revenue.
 
 Risk Assessment: Assessing the financial stability and potential risks associated with these companies.
+
+## Skills Utilized
+
+Python programming
+
+Data manipulation
+
+Web scraping
+
+Data visualization
