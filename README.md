@@ -1,11 +1,11 @@
 # IBM Data Science Professional Certificate #
 
 ## Projects ##
-**Extracting Insights from Stock Data Project**
+**Extracting Insights from Stock Using Data Project**
 
 **Unraveling Chicago's Neighborhoods with Data Project**
 
-**Data Analysis Project**
+**Predicting House Prices in King County Project**
 
 **Data Visualization Project**
 
