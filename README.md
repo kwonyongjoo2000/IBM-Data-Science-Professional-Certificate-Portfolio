@@ -7,7 +7,7 @@
 
 **Predicting House Prices in King County Project**
 
-**Data Visualization Project**
+**Unveiling Recession's Impact on City Sales Project**
 
 **Data Science Capstone**
 
