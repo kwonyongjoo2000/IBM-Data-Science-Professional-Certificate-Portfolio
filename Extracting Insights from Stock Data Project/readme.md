@@ -28,7 +28,7 @@ Trend Analysis: Using graphs to identify upward or downward trends in share pric
 
 Comparative Analysis: Comparing the trends of Tesla and GameStop to identify similarities and differences
 
-## Insights and Implications
+## Insights and Conclusion
 
 By analyzing the extracted data, we can gain valuable insights into the financial performance of Tesla and GameStop. This information can be used for various purposes, such as:
 
