@@ -40,10 +40,10 @@ Risk Assessment: Assessing the financial stability and potential risks associate
 
 ## Skills Utilized
 
-Python programming
+Python Programming
 
-Data manipulation
+Data Manipulation
 
-Web scraping
+Web Scraping
 
-Data visualization
+Data Visualization
