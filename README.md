@@ -9,7 +9,7 @@
 
 **Unveiling Recession's Impact on City Sales Project**
 
-**Data Science Capstone**
+**Rocket Science with Data: Predicting SpaceX's Landing Success (Final Capstone Project)**
 
 Machine Learning
 
