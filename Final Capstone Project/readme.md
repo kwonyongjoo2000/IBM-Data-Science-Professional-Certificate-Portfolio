@@ -2,6 +2,10 @@
 
 ## Objective
 
+This project, conducted for SpaceY, aimed to analyze the factors driving SpaceX’s success in rocket landings, leveraging data science techniques to uncover actionable insights. By identifying key variables influencing landing outcomes, the goal was to guide SpaceY in optimizing their own rocket recovery strategies, reducing costs, and becoming a viable competitor in the aerospace industry.
+
+## Data Science Methodology
+
 ### 1. Data Collection:
 Leveraged the SpaceX REST API and web scraping techniques to gather relevant data on rocket launches, including details on payloads, launch sites, and mission destinations.
 
