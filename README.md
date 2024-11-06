@@ -11,10 +11,6 @@
 
 **Rocket Science with Data: Predicting SpaceX's Landing Success (Final Capstone Project)**
 
-Machine Learning
-
-Honor Project
-
 ## Skills ##
 **Programming Languages: Python, SQL, R**
 
