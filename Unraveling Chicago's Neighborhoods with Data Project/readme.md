@@ -20,10 +20,6 @@ Exploratory Data Analysis: Techniques like descriptive statistics, data visualiz
 
 SQL Queries: SQL queries were executed to extract specific information from the datasets and answer targeted questions.
 
-### 4. Data Visualization:
-
-Visual Storytelling: Graphs and charts were created to effectively communicate insights and findings.
-
 ## Insights and Conclusion
 The analysis revealed several key findings:
 
